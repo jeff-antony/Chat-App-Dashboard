@@ -47,5 +47,5 @@ This project is a role-based dashboard application with integrated messaging fun
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone [https://github.com/jeff-antony/Chat-App-Dashboard.git]
+   
