@@ -43,6 +43,12 @@ This project is a role-based dashboard application with integrated messaging fun
 - Users can send messages, including attachments (images/files).
 - Unread counts and active chats are managed via `ChatContext`.
 
+  Mock Credentials (for testing)
+
+Role	Email	Password
+Admin -	admin@example.com	- password
+Regular-	user@example.com	- password
+
 ## 🚀 Getting Started
 
 1. **Clone the repository**
